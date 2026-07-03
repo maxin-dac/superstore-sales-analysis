@@ -13,6 +13,9 @@ The goal of this project is to perform an in-depth exploratory data analysis (ED
 * **Visualizations:** Heatmaps, bar charts, line plots, and regional profit breakdowns.
 * **Strategic Recommendations:** Summarize insights into concrete business actions.
 
+## Key takeaway:
+Profitability is heavily driven by **product category**, **region**, and **discount strategy**.
+
 ## Tech Stack & Libraries
 * **Language:** Python
 * **Data Manipulation:** `pandas`, `NumPy`
