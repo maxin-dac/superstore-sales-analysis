@@ -14,11 +14,11 @@ The goal of this project is to perform an in-depth exploratory data analysis (ED
 * **Strategic Recommendations:** Summarize insights into concrete business actions.
 
 ## Tech Stack & Libraries
-**Language:** Python
-**Data Manipulation:** `pandas`, `NumPy`
-**Visualization:** `Matplotlib`, `Seaborn`
-**Environment:** Kaggle Notebook
-**Dataset:** Superstore Sales (Kaggle): [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final]
+* **Language:** Python
+* **Data Manipulation:** `pandas`, `NumPy`
+* **Visualization:** `Matplotlib`, `Seaborn`
+* **Environment:** Kaggle Notebook
+* **Dataset:** Superstore Sales (Kaggle): [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final]
 
 ---
 *To explore the detailed code, feel free to download the notebook file on this repo, or check out my Kaggle: [https://www.kaggle.com/code/maximendacleu/superstore-sales-analysis].*
