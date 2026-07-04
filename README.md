@@ -2,7 +2,7 @@
 <img width="794" height="400" alt="télécharger" src="https://github.com/user-attachments/assets/ab7d9fc5-8f95-4314-9988-40e0a2e0b6bd" />
 
 ## Objective
-The goal of this project is to perform an in-depth exploratory data analysis (EDA) and profitability analysis on the Superstore dataset. By examining sales, profit, discounts, and regional/category performance, the analysis identifies key drivers of profitability and provides actionable business recommendations to optimize strategy, inventory, and marketing efforts. 
+The goal of this project is to perform an in-depth exploratory data analysis (EDA) and profitability analysis on a Superstore dataset. By examining sales, profit, discounts, and regional/category performance, the analysis identifies key drivers of profitability and provides actionable business recommendations to optimize strategy, inventory, and marketing efforts. 
 
 ## Notebook Structure & Workflow
 * **Data Loading & Exploration:** Import the dataset, inspect structure, handle missing values, and understand key variables (Sales, Profit, Discount, Category, Region, Sub-Category, etc.).
