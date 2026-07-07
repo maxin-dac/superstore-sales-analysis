@@ -2,7 +2,7 @@
 <img width="794" height="400" alt="télécharger" src="https://github.com/user-attachments/assets/ab7d9fc5-8f95-4314-9988-40e0a2e0b6bd" />
 
 ## Context
-- From Kaggle: [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final]
+- From [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - Dataset: Sample - Superstore.csv
 
 ## Objective
@@ -27,6 +27,4 @@ Profitability is heavily driven by **product category**, **region**, and **disco
 * **Environment:** Kaggle Notebook
 
 ---
-*To explore the detailed code, feel free to download the notebook file on this repo, or check out my Kaggle: [https://www.kaggle.com/code/maximendacleu/superstore-sales-analysis].*
-
-***By: Maxime NDACLEU | BI & Data Analyst***
+*To explore the detailed code, feel free to download the notebook file on this repo, or check out my [Kaggle](https://www.kaggle.com/code/maximendacleu/superstore-sales-analysis).*
