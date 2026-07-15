@@ -25,7 +25,7 @@ The analysis follows a logical BI progression, moving from macro-overviews to ta
 ## 📊 Key Insights & Takeaways
 * **The 20% Discount Trap:** Discounts above 20% do not drive higher purchase volumes; they simply erode margins. Discounts >50% are mathematically guaranteed to lose money.
 * **The Furniture Bleed:** The Furniture category generates significant top-line revenue but destroys value. Sub-categories like *Tables* and *Bookcases* operate at a net loss due to aggressive discounting.
-* **Geographic Red Zones:** High-sales states like **Texas, Ohio, and Pennsylvania** actually generate net losses, pointing to localized discount abuse or high logistical costs.
+* **Geographic Red Zones:** Some high-sales states generate net losses, pointing to localized discount abuse or high logistical costs.
 * **The November Paradox:** November has the highest sales volume of the year, but lower profits than September or December because Black Friday discounts compress margins.
 * **Logistical Inefficiency:** Expedited shipping (First Class/Same Day) disproportionately eats into profit margins compared to Standard Class.
 
