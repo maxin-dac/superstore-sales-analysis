@@ -1,8 +1,6 @@
 
 # 🛒 Superstore Sales Analysis
 
----
-
 ## Context
 * **Source:** [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 * **Dataset:** `Dataset/Sample - Superstore.csv` (Contains 9,994 transactional records across 4 years of retail operations).
