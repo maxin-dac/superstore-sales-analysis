@@ -1,4 +1,17 @@
-# Superstore Sales Analysis
+
+<div align="center">
+
+# 🛒 Superstore Sales Analysis
+
+[![FortheBadge built-with-python](http://ForTheBadge.com/images/badges/built-with-python.svg)](https://www.python.org/)
+[![FortheBadge uses-plotly](http://ForTheBadge.com/images/badges/uses-plotly.svg)](https://plotly.com/)
+
+---
+
+### 📊 Business Intelligence & Data Forensics Audit
+*Une analyse approfondie de la rentabilité, des remises et de la logistique.*
+
+</div>
 
 ## Context
 * **Source:** [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
