@@ -1,14 +1,14 @@
 
 # 🛒 Superstore Sales Analysis
 
-## Context
+## 📖 Context
 * **Source:** [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 * **Dataset:** `Dataset/Sample - Superstore.csv` (Contains 9,994 transactional records across 4 years of retail operations).
 
-## Objective
+## 🎯 Objective
 The goal of this project is to perform an in-depth exploratory data analysis (EDA) and business intelligence audit on a Superstore dataset. By examining sales, profit, discounts, and regional/category performance, the analysis identifies key drivers of profitability, uncovers hidden operational inefficiencies (such as logistics costs and discount traps), and provides actionable business recommendations to optimize strategy, inventory, and marketing efforts.
 
-## Notebook Structure & Workflow
+## 🔄 Notebook Structure & Workflow
 The analysis follows a logical BI progression, moving from macro-overviews to targeted forensic deep dives:
 
 1. **Data Loading & Inspection:** Import, inspect structure, handle missing values, and understand key variables.
@@ -22,14 +22,14 @@ The analysis follows a logical BI progression, moving from macro-overviews to ta
 9. **Profitability Deep Dive:** Visualize the "20% Discount Trap" using boxplots to prove discounts >20% guarantee losses.
 10. **Strategic Recommendations:** Summarize forensic insights into concrete, actionable business actions.
 
-## Key Insights & Takeaways
+## 📊 Key Insights & Takeaways
 * **The 20% Discount Trap:** Discounts above 20% do not drive higher purchase volumes; they simply erode margins. Discounts >50% are mathematically guaranteed to lose money.
 * **The Furniture Bleed:** The Furniture category generates significant top-line revenue but destroys value. Sub-categories like *Tables* and *Bookcases* operate at a net loss due to aggressive discounting.
 * **Geographic Red Zones:** High-sales states like **Texas, Ohio, and Pennsylvania** actually generate net losses, pointing to localized discount abuse or high logistical costs.
 * **The November Paradox:** November has the highest sales volume of the year, but lower profits than September or December because Black Friday discounts compress margins.
 * **Logistical Inefficiency:** Expedited shipping (First Class/Same Day) disproportionately eats into profit margins compared to Standard Class.
 
-## Tech Stack & Libraries
+## 🛠️ Tech Stack & Libraries
 
 * **Language:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
